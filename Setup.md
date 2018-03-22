@@ -9,9 +9,9 @@
 
   1. 请从[Downloads](http://code.google.com/p/eeplat/wiki/downloads?tm=2)下载适合自己的版本，一般下载最新版本即可，下载后吧war包的名字改为eeplat.war。
   1. 把下载文件eeplat.war拷贝到tomcat目录下webapps目录下面。
-> > ![http://eeplat.googlecode.com/files/yiyi_setup.png](http://eeplat.googlecode.com/files/yiyi_setup.png)
+> > ![https://github.com/arfayr/eeplat-1/blob/patch-7/imgs/yiyi_setup.png](https://github.com/arfayr/eeplat-1/blob/patch-7/imgs/yiyi_setup.png)
   1. 拷贝完成后，启动tomcat。启动完成后，即可进入配置开发界面，地址为http://127.0.0.1:8080/eeplat/exedo/webv3/，需要根据TOMCAT安装端口的不同调整端口，登录页面如下所示：
-> > ![http://eeplat.googlecode.com/files/yiy_manager_login.png](http://eeplat.googlecode.com/files/yiy_manager_login.png)
+> > ![https://github.com/arfayr/eeplat-1/blob/patch-7/imgs/yiy_manager_login.png](http://eeplat.googlecode.com/files/yiy_manager_login.png)
   1. 系统配置开发登录默认用户名/密码为：a/1（多工程版本，“EEPlat with Tomcat下载包”为多工程版本，是自己在创建第一个工程时的用户名/密码），登录后进入系统，显示如下界面则表示系统安装成功：
 > > ![http://eeplat.googlecode.com/files/yiyi_admin_index.png](http://eeplat.googlecode.com/files/yiyi_admin_index.png)
   1. 新版说明，第一步：下载 eeplat5withtomcat.zip 解压缩后，进入bin目录直接启动tomcat。第二部：如果以http://127.0.0.1:8080/eeplat/exedo/webv3/登录，会提示密码错误，这是老版的入口界面。新版先以http://127.0.0.1:8080/eeplat/创建第一个工程，这里输入的用户名密码就是以后后台的用户名密码，请记好。
