@@ -15,7 +15,7 @@
 
 
 
-> ![http://eeplat.googlecode.com/files/grid_main.png](http://eeplat.googlecode.com/files/grid_main.png)
+> ![imgs/grid_main.png](imgs/grid_main.png)
 
 > ### 主题 ###
 
@@ -23,11 +23,11 @@
 
 > <b>设置主题</b>
 
-> ![http://eeplat.googlecode.com/files/grid_title.png](http://eeplat.googlecode.com/files/grid_title.png)
+> ![imgs/grid_title.png](imgs/grid_title.png)
 
 > <b>未设置主题</b>
 
-> ![http://eeplat.googlecode.com/files/grid_title_no.png](http://eeplat.googlecode.com/files/grid_title_no.png)
+> ![imgs/grid_title_no.png](imgs/grid_title_no.png)
 
 
 > ### 列数目 ###
