@@ -44,14 +44,14 @@
   1. 导出HTML：面板导出为html页面，可以作为个性化的模板所用。
 > 如下图：
 
-> ![http://eeplat.googlecode.com/files/pane_main.png](http://eeplat.googlecode.com/files/pane_main.png)
+> ![imgs/pane_main.png](imgs/pane_main.png)
 
 > ### 维护子面板列表 ###
 
 > 面板一旦定义了子面板，那么该面板即变为一个容器，本身连接的表格或树或菜单都不会被显示，只显示子面板的内容。可以新增、修改、删除子面板，如下图：
 
-> ![http://eeplat.googlecode.com/files/pane_links.png](http://eeplat.googlecode.com/files/pane_links.png)
+> ![imgs/pane_links.png](imgs/pane_links.png)
 
 > 新增子面板可以位于同一个业务对象下面，也可以位于不同的业务对象下面，排序标示是指子面板的位置，条件类型和条件是指子面板可以根据一定的条件显示，可以实现权限控制或逻辑控制，条件类型为1,javascript 2,java  可以通过脚本或者实现com.exedosoft.plat.DOAccess接口，判断其是否可以显示，如下图：
 
-> ![http://eeplat.googlecode.com/files/pane_links_add.png](http://eeplat.googlecode.com/files/pane_links_add.png)
+> ![imgs/pane_links_add.png](imgs/pane_links_add.png)
