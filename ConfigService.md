@@ -2,7 +2,6 @@
 
 > 服务是描述业务对象的行为。这个服务既可以是底层数据层面的操作，也可以是粗粒度的业务行为。当一个数据表被初始化为业务对象后，会形成6个基本服务，命名规则是业务对象 + `_` + 后缀，后缀分别为browse、list、insert、update、delete、auto\_condition。一个面向底层数据操作的业务对象必须含有后缀为browse的服务，自动生成的该服务不要修改。
 
-![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_para_copy.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_para_copy.png)
 
 > 服务按照复杂程度可以分为两类:
     1. 基本服务，只定义的一个sql语句。
@@ -157,7 +156,7 @@
 
 > ### 基本信息配置 ###
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service.png](http://eeplat.googlecode.com/files/do_service.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service.png)
 
 > 通过配置，我们可以：
 
@@ -167,11 +166,11 @@
 
 > <b> 生成规则：   </b>  以当前服务为基础生成一个规则，规则的默认执行条件为true，默认执行次数是1次，即让该规则执行并且只执行一次。
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_gene_rule.png](http://eeplat.googlecode.com/files/do_service_gene_rule.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_gene_rule.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_gene_rule.png)
 
 > 当生成规则后，生成的规则可以通过生成的规则TAB页查看，如下图：
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_gene_rule_result.png](http://eeplat.googlecode.com/files/do_service_gene_rule_result.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_gene_rule_result.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_gene_rule_result.png)
 
 > <b> 新增：   </b>  新增一个服务，该服务的业务对象为当前服务的服务对象。
 
@@ -184,7 +183,7 @@
 > 管理服务参数界面即上图的“服务参数列表”部分。它可以新增、修改、删除“服务参数”，在这里“服务参数”不是“参数”而是服务和参数的连接。
 
 > 新增和修改连接的参数，可以是服务所在的业务对象的参数，也可以是其它业务对象的参数。下面是新增参数的界面：
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_add_para.png](http://eeplat.googlecode.com/files/do_service_add_para.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_add_para.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_add_para.png)
 
 > “连接的参数”：是参数选择器，可以选择不同业务对象下面的参数。
 
@@ -208,21 +207,21 @@
 
 > “复制到”可以把选中的参数复制给其它的服务。
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_para_copy.png](http://eeplat.googlecode.com/files/do_service_para_copy.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_para_copy.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_para_copy.png)
 
 
 > ### 规则定义 ###
 
 > 当一次处理需要多次SQL语句调用时，需要定义规则。如当新增A表时，需要修改B表的数据，删除C表的数据，这时需要把修改B表数据的服务发布为规则，删除C表的服务发布为规则。  在新增A表的服务上定义上述两个规则。如下图：
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_servicerule_add.png](http://eeplat.googlecode.com/files/do_servicerule_add.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_servicerule_add.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_servicerule_add.png)
 
 
 
 > ### 转向定义 ###
 
 > 服务执行后，可以定义转向面板，转向的面板可以定义多个。 当转向面板定义在按钮（表格元素）上时，只能定义一个，如果转向面板恰好只有一个，请使用按钮定义。
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_redirect.png](http://eeplat.googlecode.com/files/do_service_redirect.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_redirect.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/do_service_redirect.png)
 
 
 > ### 所有引用 ###
