@@ -28,7 +28,7 @@
 
 > 一个编码定义包含一个或多个编码项目，当新增编码项目时，顺序表示编码项目的位置。
 
-> ![http://eeplat.googlecode.com/files/codemain.png](http://eeplat.googlecode.com/files/codemain.png)
+> ![imgs/codemain.png](imgs/codemain.png)
 
 
 > ### 编码项目 ###
@@ -63,4 +63,4 @@
 
 
 
-> ![http://eeplat.googlecode.com/files/codeitem.png](http://eeplat.googlecode.com/files/codeitem.png)
+> ![imgs/codeitem.png](imgs/codeitem.png)
