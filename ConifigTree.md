@@ -25,13 +25,13 @@
 
 > ### 创建树 ###
 
-> ![http://eeplat.googlecode.com/files/tree_create.png](http://eeplat.googlecode.com/files/tree_create.png)
+> ![imgs/tree_create.png](imgs/tree_create.png)
 
 > ### 管理树 ###
 
-> ![http://eeplat.googlecode.com/files/tree_manager.png](http://eeplat.googlecode.com/files/tree_manager.png)
+> ![imgs/tree_manager.png](imgs/tree_manager.png)
 
 > ### 换图标 ###
-> > 图标的位置位于：exedo\webv3\images\icons。目录中里面提供了一些常用的图标，也可以把自己的图标放入。为了实现打开、关闭的效果，打开和关闭的图片可以不同。
+> > 图标的位置位于：web\default\images\icons。目录中里面提供了一些常用的图标，也可以把自己的图标放入。为了实现打开、关闭的效果，打开和关闭的图片可以不同。
 
-> ![http://eeplat.googlecode.com/files/tree_icon_config.png](http://eeplat.googlecode.com/files/tree_icon_config.png)
+> ![himgs/tree_icon_config.png](imgs/tree_icon_config.png)
