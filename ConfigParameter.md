@@ -24,7 +24,7 @@
 
 > <b>LOGIN_ID，LOGIN_NAME，LOGIN_MAIN_STATION，LOGIN_MAIN_DEPT，LOGIN_KEY：登录相关 </b>
 
-> 参见[业务对象总线USER的获取](http://code.google.com/p/eeplat/wiki/BusinessObjectBus#USER%E7%9A%84%E8%8E%B7%E5%8F%96)
+> 参见[业务对象总线USER的获取](BusinessObjectBus.md#USER)
 
 
 > <b>DATE：当前时间，java.sql.Date 类型 </b>
