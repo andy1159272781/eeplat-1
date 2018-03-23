@@ -10,7 +10,7 @@
   1. 检查全部参数：如果服务的参数检查如果包含多个，检查完全部的参数，只要有一个不成功，服务就不被执行，返回全部的错误原因
 
 
-> ![http://eeplat.googlecode.com/files/do_service_check_filter.png](http://eeplat.googlecode.com/files/do_service_check_filter.png)
+> ![imgs/do_service_check_filter.png](imgs/do_service_check_filter.png)
 
 ## 对应JAVA 数据类型 ##
 > com.exedosoft.plat.bo.DOParameterCheck
@@ -19,7 +19,7 @@
 
 > 参数检查配置在参数上面，通过业务对象的“参数” TAB页，然后选中某个参数，进行参数检查配置，如下图：
 
-> ![http://eeplat.googlecode.com/files/do_service_para_check.png](http://eeplat.googlecode.com/files/do_service_para_check.png)
+> ![imgs/do_service_para_check.png](imgs/do_service_para_check.png)
 
 > ### 类型检查 ###
 
@@ -59,9 +59,9 @@
 
 ### 配置页面 ###
 
-> ![http://eeplat.googlecode.com/files/do_service_para_check_1.png](http://eeplat.googlecode.com/files/do_service_para_check_1.png)
+> ![imgs/do_service_para_check_1.png](imgs/do_service_para_check_1.png)
 
-> ![http://eeplat.googlecode.com/files/do_service_para_check_2.png](http://eeplat.googlecode.com/files/do_service_para_check_2.png)
+> ![imgs/do_service_para_check_2.png](imgs/do_service_para_check_2.png)
 
 
 
