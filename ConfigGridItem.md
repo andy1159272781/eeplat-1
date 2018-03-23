@@ -14,7 +14,7 @@
 
 > 表格元素的配置界面和表格的配置在一起，以列表形式位于表格配置的下面一部分，可以对表格元素修改、设为摘要字段、设为普通字段、设置关联关系、提交作用范围，新增表格元素，删除表格元素，复制表格元素。表格与表格元素之间是一对多的关系。
 
-> ![http://eeplat.googlecode.com/files/grid_main.png](http://eeplat.googlecode.com/files/grid_main.png)
+> ![imgs/grid_main.png](imgs/grid_main.png)
 
 > ### 表格元素的配置界面 ###
 
@@ -109,8 +109,8 @@
 
 
 
-> ![http://eeplat.googlecode.com/files/form_modi1.png](http://eeplat.googlecode.com/files/form_modi1.png)
-> ![http://eeplat.googlecode.com/files/form_modi2.png](http://eeplat.googlecode.com/files/form_modi2.png)
+> ![imgs/form_modi1.png](imgs/form_modi1.png)
+> ![imgs/form_modi2.png](imgs/form_modi2.png)
 
 
 > ### 设为摘要字段、设为普通字段 ###
@@ -123,20 +123,20 @@
 
 > 表格元素可能还要关联其它的表格元素（位于同一个表格下面），这样表格元素通过界面组件可以表达更复杂的界面，如在配置平台中常用的选择器（如服务选择器），由业务包 + 业务对象 + 服务 三个下拉列表构成，是通过一个选择器表格元素关联三个下拉列表的表格元素实现的。下图为“name”表格元素关联其它的表格元素。
 
-> ![http://eeplat.googlecode.com/files/form_relation.png](http://eeplat.googlecode.com/files/form_relation.png)
+> ![imgs/form_relation.png](imgs/form_relation.png)
 
 
 > ### 提交作用范围 ###
 
 > 提交作用范围只针对“向后台提交”的按钮或超链接。当按钮或超链接向后台提交时，默认提交的数据只是它们所在的表格的数据，如果还需要提交其它表格的数据，那么就需要设置提交作用范围，设置时通过表格选择器，选择本表格和需要提交的其他表格。
 
-> ![http://eeplat.googlecode.com/files/form_target.png](http://eeplat.googlecode.com/files/form_target.png)
+> ![imgs/form_target.png](imgs/form_target.png)
 
 > ### 复制 ###
 
 > 可以把一个或多个表格元素选中，复制到其它表格中去，也可以复制到本表格中实现“新增”的功能，复制后的表格元素经过修改后便成为一个“新的表格元素”。在创建新的表格元素时，推荐使用复制后修改，这样可以减少配置项的录入。
 
-> ![http://eeplat.googlecode.com/files/form_copyto.png](http://eeplat.googlecode.com/files/form_copyto.png)
+> ![imgs/form_copyto.png](imgs/form_copyto.png)
 
 > ### 权限设置 ###
 > 设置表格元素的过滤角色，定义的角色将在相关表格中看不到该表格元素。同时需要在表格元素的设置界面的是否过滤，设置为权限表。
