@@ -24,7 +24,7 @@
 
 > <b>LOGIN_ID，LOGIN_NAME，LOGIN_MAIN_STATION，LOGIN_MAIN_DEPT，LOGIN_KEY：登录相关 </b>
 
-> 参见[业务对象总线USER的获取](BusinessObjectBus.md#USER)
+> 参见[业务对象总线USER的获取](BusinessObjectBus.md#USER%E7%9A%84%E8%8E%B7%E5%8F%96)
 
 
 > <b>DATE：当前时间，java.sql.Date 类型 </b>
