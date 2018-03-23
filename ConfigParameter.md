@@ -33,7 +33,7 @@
 
 > <b>FORM：来自界面 </b>
 
-> 参见[业务对象总线FORM节点](http://code.google.com/p/eeplat/wiki/BusinessObjectBus#FORM%E8%8A%82%E7%82%B9)
+> 参见[业务对象总线FORM节点](BusinessObjectBus.md#FORM%E8%8A%82%E7%82%B9)
 
 
 > <b>FORM_CAL：来自界面，可以把多选的值以;分割存放</b>
@@ -66,4 +66,4 @@
 
 ## 配置界面 ##
 
-> ![http://eeplat.googlecode.com/files/para_config.png](http://eeplat.googlecode.com/files/para_config.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/para_config.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/para_config.png)
