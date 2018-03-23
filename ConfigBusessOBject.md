@@ -9,7 +9,7 @@
 
 ## 配置界面 ##
 
-> ![http://eeplat.googlecode.com/files/bo_edit.png](http://eeplat.googlecode.com/files/bo_edit.png)
+> ![imgs/bo_edit.png](imgs/bo_edit.png)
 
 
 > <b> 注意：</b>
@@ -30,13 +30,13 @@
 > 通过外键关联其它业务对象。在下面界面上选择本业务对象的列表，选择需要关联的其它业务对象。
 > 点击“生成关联”即可，生成的过程可能持续10几秒时间。
 
-> ![http://eeplat.googlecode.com/files/bo_link.png](http://eeplat.googlecode.com/files/bo_link.png)
+> ![imgs/bo_link.png](imgs/bo_link.png)
 
 > <b> 关联流程 </b>
 > 把业务对象关联到某个流程下面，使该流程流转的是该业务对象的数据。
 > 点击“生成关联”即可，生成的过程可能持续10几秒时间。
 
-> ![http://eeplat.googlecode.com/files/bo_link_wf.png](http://eeplat.googlecode.com/files/bo_link_wf.png)
+> ![imgs/bo_link_wf.png](imgs/bo_link_wf.png)
 
 
 > <b> 导出 </b>
@@ -45,4 +45,4 @@
 > <b> 删除 </b>
 > 谨慎使用删除操作，删除将会把业务对象下面的所有配置数据全部删除。
 
-> ![http://eeplat.googlecode.com/files/bo_delete.png](http://eeplat.googlecode.com/files/bo_delete.png)
+> ![imgs/bo_delete.png](imgs/bo_delete.png)
