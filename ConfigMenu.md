@@ -32,7 +32,7 @@
   1. 新增下级  新增下一级菜单
   1. 删除  删除当前菜单，注意不要删除有下层菜单的菜单
 
-> ![http://eeplat.googlecode.com/files/menu_main.png](http://eeplat.googlecode.com/files/menu_main.png)
+> ![imgs/menu_main.png](imgs/menu_main.png)
 
 
 > ### 修改菜单界面 ###
@@ -43,4 +43,4 @@
 
 > 连接的服务：在点击菜单时，后台执行的服务。
 
-> ![http://eeplat.googlecode.com/files/menu_modify.png](http://eeplat.googlecode.com/files/menu_modify.png)
+> ![imgs/menu_modify.png](imgs/menu_modify.png)
