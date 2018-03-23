@@ -14,7 +14,7 @@
 
 ## 配置界面 ##
 
-> ![http://eeplat.googlecode.com/files/boproperty.png](http://eeplat.googlecode.com/files/boproperty.png)
+> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/boproperty.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/boproperty.png)
 
 > 可以通过属性列表界面，查看、新增、修改、删除一个业务对象属性。
 
