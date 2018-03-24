@@ -14,7 +14,7 @@
 
 ## 配置界面 ##
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/boproperty.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/boproperty.png)
+> ![imgs/boproperty.png](imgs/boproperty.png)
 
 > 可以通过属性列表界面，查看、新增、修改、删除一个业务对象属性。
 
@@ -23,6 +23,8 @@
 > 删除时，系统会自动删除对应的参数，如果属性的持久性类型为YES，并会修改缺省实现的以_update、_insert结尾命名的服务的sql语句。
 
 > <b>   修改时，系统不会做相应的操作，需要手动修改。</b>
+
+> 列名
 
 
 > <b> 注意：</b>
