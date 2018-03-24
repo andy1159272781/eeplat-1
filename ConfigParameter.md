@@ -66,4 +66,4 @@
 
 ## 配置界面 ##
 
-> ![https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/para_config.png](https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/para_config.png)
+> ![imgs/para_config.png](imgs/para_config.png)
