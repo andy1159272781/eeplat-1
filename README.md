@@ -50,7 +50,7 @@ EPlat是使用配置方式而不是代码方式进行开发的企业应用平台
     * [JavaScript API(浏览器端)](JavaScriptAPI.md)
     * [Java API](JavaAPI.md)
     * [全局参数配置](GlobalParas.md)
-    * [主子表配置](headerdetail.md)
+    * [主子表配置](headerdetail.md)
 * 界面组件（控制器）
     *  面板 pane
         *  [LayoutLeft](pane_LayOutLeft.md)
