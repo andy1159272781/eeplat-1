@@ -1,56 +1,68 @@
 本次简介以常见的订单维护，来介绍下平台内类似主子表结构的配置方法。
 订单包括订单头和订单明细，订单头包括简单信息：订单编号、订单状态、客户、 交付日期、订单日期、备注等。订单明细包括：订单产品、定单数量、订单单价等。 
 	为了使例子完整，还需创建客户（客户名称、联系人、地址、电话）、产品（产品名称、产品描述）两个对象。
-第一步：
+### 第一步： ###
 先创建并初始化完成上述四个对象，从后台点击“数据库管理”，选择数据源并点创建表，并完成相应的初始化。下面为各自的界面：
 1 创建产品表 初始化产品业务对象
-
-
+> ![imgs/hd_image001.png](imgs/hd_image001.png)
+> ![imgs/hd_image002.png](imgs/hd_image002.jpg)
 
 2 创建客户表 初始化客户对象
-
+> ![imgs/hd_image003.png](imgs/hd_image003.png)
+> ![imgs/hd_image002.png](imgs/hd_image004.jpg)
 
 3 创建订单头表
-
+> ![imgs/hd_image001.png](imgs/hd_image005.png)
+> ![imgs/hd_image002.png](imgs/hd_image006.jpg)
 
 4 创建订单明细表并初始化
-
+> ![imgs/hd_image001.png](imgs/hd_image007.png)
+> ![imgs/hd_image002.png](imgs/hd_image008.jpg)
 
 初始化完成后，通过后台“翻译”功能，翻译界面中文，翻译字符串见附录一。
 
-第二步
+### 第二步 ###
 建立业务对象之间的关联关系。
 平台中业务对象关联关系分为关联和组合两个概念，关联为松散的关联引用关系，如订单和客户的关系，订单明细和产品的关系；组合为强耦合的主子关系，如订单和订单明细的关系。
 定义的方法在关联字段上关联。下面依次建立各种关系：
 1 建立订单和客户的关系
 选择业务对象“订单”，
+> ![imgs/hd_image001.png](imgs/hd_image009.png)
 
 在右侧业务对象维护，点击按钮“关联业务对象”
+> ![imgs/hd_image002.png](imgs/hd_image010.jpg)
 
 依次选择字段、关联类型、关联的业务对象，
+> ![imgs/hd_image001.png](imgs/hd_image011.png)
 
 点击生成关联。
 2 建立订单明细和产品的关联关系，选择订单明细业务对象，点击进入关联业务对象，选择相应字段、类型和业务对象，如下图：
-
+> ![imgs/hd_image002.png](imgs/hd_image012.jpg)
 
 3 建立订单头和订单明细的主子关系，选择业务对象“订单明细”，点击关联业务对象，依次选择如下：
+> ![imgs/hd_image001.png](imgs/hd_image013.png)
 
 
 
-第三步
+### 第三步 ###
 配置全部完成，点击右上角“清空缓存”，然后点击项目，打开工程登录
+> ![imgs/hd_image002.png](imgs/hd_image014.jpg)
 
 用户名 “Tom” 密码“1”
 进入系统如下：
+> ![imgs/hd_image001.png](imgs/hd_image015.png)
 
 增加一些产品的测试数据：
+> ![imgs/hd_image002.png](imgs/hd_image016.jpg)
 
 增加一些客户的测试数据
+> ![imgs/hd_image001.png](imgs/hd_image017.png)
 
 增加客户订单：
+> ![imgs/hd_image002.png](imgs/hd_image018.jpg)
 
 订单详细信息维护
-
+> ![imgs/hd_image001.png](imgs/hd_image019.png)
 
 
 
