@@ -74,8 +74,11 @@
 ### 附一  翻译字符串： ###
 
 productname=产品名称
+
 standprice=标准报价
+
 productnote=产品描述
+
 customname=客户名称
 linkman=联系人
 linkphone=联系电话
