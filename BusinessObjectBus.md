@@ -8,7 +8,7 @@
 
 数据总线有下面几部分构成，每个组成部分我们称之为节点：
 
-> <img width='500' height='400' src='https://raw.githubusercontent.com/arfayr/eeplat-1/patch-7/imgs/yiyi_bus_node.png' />
+> <img width='500' height='400' src='imgs/yiyi_bus_node.png' />
 
 ## FORM节点 ##
 
