@@ -13,15 +13,15 @@
 > ![imgs/ec_image004.png](imgs/ec_image004.png)
 	选择的服务是图表的数据来源，我们这里使用默认的list即可，实际使用可以根据自己的需求配置相应的服务以获取数据。
 	配置完成后点击保存，会生成一个面板，通过业务对象的标签页“所有图表”可以访问，也可以直接通过业务对象下的面板找到想应的图表面板。
-
+> ![imgs/ec_image005.png](imgs/ec_image005.png)
 
 	下面我们定义一个菜单关联到这个面板，
-
+> ![imgs/ec_image006.png](imgs/ec_image006.png)
 
 	登录业务系统，点击网络访问数据菜单，输入测试数据，
-
+> ![imgs/ec_image007.png](imgs/ec_image007.png)
 	输入完成后，点击网站访问率，查看到下面的图表：
-
+> ![imgs/ec_image008.png](imgs/ec_image008.png)
 	
 	看，EEPlat的图表就是如此简单。
 
