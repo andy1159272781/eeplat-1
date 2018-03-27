@@ -90,7 +90,7 @@ productnum=订货数量
 productprice=订货单价
 objuid=标识符
 
-
+ 
 附录二  例子sql语句
 
 /*Table structure for table `test_custom` */
