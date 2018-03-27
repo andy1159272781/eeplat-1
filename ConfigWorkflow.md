@@ -65,30 +65,30 @@
 
 > 下面介绍一下配置过程，工作流设计器从配置管理平台首页进入，如下图：
 
-> ![http://eeplat.googlecode.com/files/wf_index.png](http://eeplat.googlecode.com/files/wf_index.png)
+> ![imgs/wf_index.png](imgs/wf_index.png)
 
 > 点击“工作流建模”，进入如下界面：
 
-> ![http://eeplat.googlecode.com/files/wf_list.png](http://eeplat.googlecode.com/files/wf_list.png)
+> ![imgs/wf_list.png](imgs/wf_list.png)
 
 > 选择“简单报销流程测试”（上文提到“报销流程的实例”），点设计流程，进入如下设计界面：
 
-> ![http://eeplat.googlecode.com/files/wf_main.png](http://eeplat.googlecode.com/files/wf_main.png)
+> ![imgs/wf_main.png](imgs/wf_main.png)
 
 > 流程由一个判断节点和三个审批节点组成，判断节点判断报销金额，大于1000元和小于1000元分别走不同的分支。
 > 双击节点进入节点属性编辑界面：
 
-> ![http://eeplat.googlecode.com/files/wf_node_property.png](http://eeplat.googlecode.com/files/wf_node_property.png)
+> ![imgs/wf_node_property.png](imgs/wf_node_property.png)
 
 > expense\_money为工作流处理的业务对象的属性，针对该属性直接进行判断。双击节点流线进入流向属性界面，如下图所示：
 
-> ![http://eeplat.googlecode.com/files/wf_line_property.png](http://eeplat.googlecode.com/files/wf_line_property.png)
+> ![imgs/wf_line_property.png](imgs/wf_line_property.png)
 
 
 > <b> 关联流程 </b>
 > 把t\_expense业务对象关联到“简单报销流程测试”下面， 点击“生成关联”即可，生成的过程可能持续10几秒时间。
 
-> ![http://eeplat.googlecode.com/files/bo_link_wf.png](http://eeplat.googlecode.com/files/bo_link_wf.png)
+> ![imgs/bo_link_wf.png](imgs/bo_link_wf.png)
 
 # 工作流权限 #
 
