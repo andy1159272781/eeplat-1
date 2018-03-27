@@ -73,25 +73,22 @@
 
 ### 附一  翻译字符串： ###
 
-productname=产品名称
-
-standprice=标准报价
-
-productnote=产品描述
-
-customname=客户名称
-linkman=联系人
-linkphone=联系电话
-address=地址
-orderid=订单编号
-customuid=客户
-orderstate=订单状态
-orderdate=订单日期
-deliverydate=交付日期
-productuid=产品
-productnum=订货数量
-productprice=订货单价
-objuid=标识符
+- productname=产品名称
+- standprice=标准报价
+- productnote=产品描述
+- customname=客户名称
+- linkman=联系人
+- linkphone=联系电话
+- address=地址
+- orderid=订单编号
+- customuid=客户
+- orderstate=订单状态
+- orderdate=订单日期
+- deliverydate=交付日期
+- productuid=产品
+- productnum=订货数量
+- productprice=订货单价
+- objuid=标识符
 
  
 附录二  例子sql语句
