@@ -49,6 +49,7 @@ EPlat是使用配置方式而不是代码方式进行开发的企业应用平台
     * [配置数据导入导出](ImportExportBusinessObject.md)
     * [JavaScript API(浏览器端)](JavaScriptAPI.md)
     * [Java API](JavaAPI.md)
+    * [JavaScript API(服务器端)](JavaScriptAPIBack.md)
     * [全局参数配置](GlobalParas.md)
     * [主子表配置](headerdetail.md)
     * [图表配置](eeplatechart.md)
