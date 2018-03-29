@@ -47,7 +47,7 @@ DOService 的主要方法invokeSelect，invokeSelectGetAValue，invokeUpdate，i
 
 > 注意事项：invokeSelect(paras:List) 和 invokeSelect(paras:Map) 可以传递的参数数量不限，但是paras:List 方式要和服务配置的参数个数、顺序严格匹配，如果不匹配则不起作用。Paras:Map方式在自动参数条件查询的情况，个数和顺序都可以不匹配，依赖于平台的自动条件组装。invokeUpdate 类似。
 
-> invokeSelect(para:string …)方式传递参数和服务配置的参数个数、顺序严格匹配，如果不匹配则不起作用，上文中传递了两个参数，后台服务也配置了两个参数。 invokeUpdate类似。
+> invokeSelect(para:string …)方式传递参数和服务配置的参数个数、顺序严格匹配，如果不匹配则不起作用，上文中传递了两个参数，后台服务也配置了两个参数。 invokeUpdate类似。invokeSelect(int pageNo,int pageNum)一个是分页的序号和每个分页的记录行数 
 
 > ### 间接传递 ###
 
@@ -120,7 +120,7 @@ public java.util.List invokeSelect(int pageNo,
 参数： 
 pageNo - 页码 
 pageNum - 每页多少行 
-令见参数传递说明。
+令见参数传递说明。参数数量必须和后台参数的数量一致
 返回： 见函数返回说明。
 ```
 
@@ -129,7 +129,7 @@ pageNum - 每页多少行
 public java.util.List invokeSelect(java.util.Map aMap)
 执行查询操作。
 
-参数： 见参数传递说明。
+参数： 见参数传递说明。参数数量必须和后台参数的数量可以不一致
 返回： 见函数返回说明。
 ```
 
