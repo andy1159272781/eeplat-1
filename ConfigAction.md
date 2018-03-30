@@ -15,15 +15,15 @@
 
 > 自定义动作一般继承DOAbstractAction抽象类，返回有以下情况
 
-  1.返回默认字符串 	 DEFAULT_FORWARD = "success"; NO_FORWARD = "noforward";  成功为success失败返回 noforward
-  1.返回对象列表  DOGlobals.getInstance().getRuleContext().setInstances(List<BOInstance> list);
-  1.返回对象 DOGlobals.getInstance().getRuleContext().setInstance(BOInstance ins); 
-  1.作为参数、编码、编码项的自定义动作直接返回对应的值 如果错误返回noforward
+  1. 返回默认字符串 	 DEFAULT_FORWARD = "success"; NO_FORWARD = "noforward";  成功为success失败返回 noforward
+  1. 返回对象列表  DOGlobals.getInstance().getRuleContext().setInstances(List<BOInstance> list);
+  1. 返回对象 DOGlobals.getInstance().getRuleContext().setInstance(BOInstance ins); 
+  1. 作为参数、编码、编码项的自定义动作直接返回对应的值 如果错误返回noforward
   
 > 自定义动作默认属性
 
-  1.java this.actionForm 操作当前的form对象;  js 用doform直接操作
-  1.java this.setEchoValue("没有数据！");js 用 SessionContext.getInstance().getThreadContext().setEchoValue("批量删除完成！") ;
+  1. java this.actionForm 操作当前的form对象;  js 用doform直接操作
+  1. java this.setEchoValue("没有数据！");js 用 SessionContext.getInstance().getThreadContext().setEchoValue("批量删除完成！") ;
   
   
 
