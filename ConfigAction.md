@@ -19,4 +19,4 @@
 > 自定义动作管理入口位于 首页==>基础设施管理==>自定义动作管理。
 
 
-> ![http://eeplat.googlecode.com/files/action_config.png](http://eeplat.googlecode.com/files/action_config.png)
+> ![imgs/action_config.png](imgs/action_config.png)
