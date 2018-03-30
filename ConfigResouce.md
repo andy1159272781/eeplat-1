@@ -11,4 +11,4 @@
 > 资源管理入口位于 首页==>基础设施管理==>资源管理
 
 
-> ![http://eeplat.googlecode.com/files/resouce_config.png](http://eeplat.googlecode.com/files/resouce_config.png)
+> ![imgs/resouce_config.png](imgs/resouce_config.png)
