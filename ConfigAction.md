@@ -35,7 +35,7 @@
 > ![imgs/action_config.png](imgs/action_config.png)
 
 ### java示例 ###
-
+```
 public class DeleteAllPerson extends DOAbstractAction {
 
 	@Override
@@ -64,10 +64,10 @@ public class DeleteAllPerson extends DOAbstractAction {
 	}
 
 }
-
+```
 
 ### JavaScript示例 ###
-
+```
 var ret ; //返回值声明
 
 var DEFAULT_FORWARD = "success";
@@ -89,3 +89,4 @@ if(checks !=null && checks.length >0){
     ret = NO_FORWARD ;
 }
 ret ; //返回值 
+```
