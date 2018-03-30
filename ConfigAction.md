@@ -33,3 +33,59 @@
 
 
 > ![imgs/action_config.png](imgs/action_config.png)
+
+### java示例 ###
+
+public class DeleteAllPerson extends DOAbstractAction {
+
+	@Override
+	public String excute() throws ExedoException {
+		// TODO Auto-generated method stub
+		// 获取Form节点
+		BOInstance form = DOGlobals.getInstance().getSessoinContext()
+				.getFormInstance();
+		// 调用删除人员的服务
+		DOService deleteService = DOService.getService("tbl_person_delete");
+		// 获取Form节点中name为checkinstance的属性的值
+		// 因为表格用的GridList控制器，在其配置的checkbox的name为checkinstance，(明细请
+		// 参照/exedo/webv3/template/grid/GridList.ftl)
+		// 因此获取Form节点中name为checkinstance的属性的值即可获得在页面中选择的要删除的人员列表
+		String[] checks = form.getValueArray("checkinstance");
+		if (checks == null && checks.length <= 0) {
+			this.setEchoValue("没有数据！");// 在页面弹出提示框
+			return NO_FORWARD;
+		} else {
+			// 循环调用删除服务
+			for (int i = 0; i < checks.length; i++) {
+				deleteService.invokeUpdate(checks[i]);
+			}
+		}
+		return DEFAULT_FORWARD;
+	}
+
+}
+
+
+### JavaScript示例 ###
+
+var ret ; //返回值声明
+
+var DEFAULT_FORWARD = "success";
+var NO_FORWARD = "noforward";
+
+var sSubmit = doservice.getService("tbl_person_delete");//调用删除人员的服务
+var checks=doform.getValueArray("checkinstance");//获取Form节点中name为checkinstance的属性的值
+
+if(checks !=null && checks.length >0){
+  // 循环调用删除服务
+    for(var i = 0 ; i <  checks.length ; i ++){
+      var rid = checks[i] ;
+      sSubmit.invokeUpdate(rid) ; //rhino js是老版本的,这个rid参数要用[]包起来
+    }
+    SessionContext.getInstance().getThreadContext().setEchoValue("批量删除完成！") ;
+    ret = DEFAULT_FORWARD ;
+}else{
+    SessionContext.getInstance().getThreadContext().setEchoValue("没有数据！") ;
+    ret = NO_FORWARD ;
+}
+ret ; //返回值 
