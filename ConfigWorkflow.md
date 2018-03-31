@@ -129,3 +129,23 @@
 > ### 运行时指定用户 ###
 
 > 运行时指定用户，需要上一个节点通过界面选择下一个节点的执行人。界面需要自己配置，选择的文本框的名称为scheduleIds，执行完选择操作点击工作流提交后，工作流引擎会自动进行权限指定。
+
+> 
+
+Field        |  Type        |   Collation   |     Comment  
+---|---|---|---
+OBJUID        |varchar(32)    |utf8_general_ci|        
+WFI_Name      |varchar(255)   |utf8_general_ci|       
+PT_Name       |varchar(255)   |utf8_general_ci  |      
+WFI_Desc       |varchar(2000)  |utf8_general_ci |       
+ExeStatus      |tinyint(4)     |(NULL)          |       
+PT_UID         |varchar(50)    |utf8_general_ci |       
+startUser      |varchar(50)    |utf8_general_ci |      
+startTime      |datetime       |(NULL)          |       
+curState       |varchar(255)   |utf8_general_ci |       
+curStateTime   |datetime       |(NULL)          |       
+curStateUser   |varchar(50)    |utf8_general_ci |       
+rejectTxt      |varchar(2000)  |utf8_general_ci|        
+instance_uid   |varchar(50)    |utf8_general_ci|        
+instance2_uid  |varchar(32)   | utf8_general_ci|        
+instance3_uid  |varchar(32)   | utf8_general_ci|  
