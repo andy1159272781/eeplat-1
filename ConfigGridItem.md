@@ -54,13 +54,27 @@
 
   1. Email E-MAIL格式
   1. Url  Url地址格式
-  1. Integer整数类型
-  1. RealNumber 数字类型
-  1. IDCard 身份证
-  1. MoBile 手机格式
-  1. Telphone 固定电话
-  1. NoChin 不能含有汉字
-  1. NoSBCDot 不能还有全角字符和
+  1. date 日期格式
+  1. dateISO ISO标准的日期格式
+  1. number 数字类型 可以带小数点
+  1. digits 整型
+  1. creditcard 信用卡类型
+  1. phoneUS 电话 美国 
+  1. phoneChina 电话中国 010-12345123
+  1. mobile 手机 
+  1. nochin 不能含有汉字
+  1. idcard 身份证号码
+  1. gt 大于某一个表格元素的值   gt=#gm_tbl_person_insert_person_birthday message=提示信息
+  1. lt 小于某一个表格元素的值   lt=#gm_tbl_person_insert_person_birthday message=提示信息
+  1. gtdate 大于某一个表格元素的日期   gt=#gm_tbl_person_insert_person_birthday message=提示信息
+  1. ltdate 小于某一个表格元素的日期   lt=#gm_tbl_person_insert_person_birthday message=提示信息
+  1. ===============其余扩展 不选择类型 直接补充表达是写
+  1. Integer整数类型   Integer=true
+  1. RealNumber 数字类型 RealNumber=true
+  1. telphone 固定电话 telphone=true
+  1. NoSBCDot 不能还有全角字符 NoSBCDot=true
+  1. gtavalue 大于一个值  gtavalue=10
+  1. ltavalue 小于一个值  ltavalue=10
 
 > 如果不限制类型只限制长度，如;5  则表示长度不能超过5。
 
