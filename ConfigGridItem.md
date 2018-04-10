@@ -68,13 +68,13 @@
   1. lt 小于某一个表格元素的值   lt=#gm_tbl_person_insert_person_birthday message=提示信息
   1. gtdate 大于某一个表格元素的日期   gt=#gm_tbl_person_insert_person_birthday message=提示信息
   1. ltdate 小于某一个表格元素的日期   lt=#gm_tbl_person_insert_person_birthday message=提示信息
-  1. ===============其余扩展 不选择类型 直接补充表达是写
-  1. Integer整数类型   Integer=true
+  1. ===============其余扩展 不选择类型 直接补充表达是写
+  1. Integer整数类型   Integer=true
   1. RealNumber 数字类型 RealNumber=true
   1. telphone 固定电话 telphone=true
   1. NoSBCDot 不能还有全角字符 NoSBCDot=true
-  1. gtavalue 大于一个值  gtavalue=10
-  1. ltavalue 小于一个值  ltavalue=10
+  1. gtavalue 大于一个值  gtavalue=10
+  1. ltavalue 小于一个值  ltavalue=10
 
 > 如果不限制类型只限制长度，如;5  则表示长度不能超过5。
 
