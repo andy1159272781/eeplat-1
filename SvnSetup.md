@@ -27,7 +27,7 @@
 
 > ![imgs/svncheck2.png](imgs/svncheck2.png)
 
-> ![imgs/svncheck3.png](imgs/files/svncheck3.png)
+> ![imgs/svncheck3.png](imgs/svncheck3.png)
 
 > ![imgs/svncheck4.png](imgs/svncheck4.png)
 
