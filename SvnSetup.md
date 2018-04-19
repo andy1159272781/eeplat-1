@@ -10,11 +10,11 @@
 
 ## 在Eclipse中配置Tomcat ##
 如果你已经配置完成，请略过此步。下面是配置截图：
-> ![http://eeplat.googlecode.com/files/newserver.png](http://eeplat.googlecode.com/files/newserver.png)
+> ![images/newserver.png](images/newserver.png)
 
-> ![http://eeplat.googlecode.com/files/newserver2.png](http://eeplat.googlecode.com/files/newserver2.png)
+> ![images/newserver2.png](images/newserver2.png)
 
-> ![http://eeplat.googlecode.com/files/newserver3.png](http://eeplat.googlecode.com/files/newserver3.png)
+> ![images/newserver3.png](images/newserver3.png)
 
 点击Finish 完成Tomcat在Eclipse中的配置。
 
