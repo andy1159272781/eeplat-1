@@ -7,8 +7,7 @@
 ### 安装详细步骤： ###
 **下面以TOMCAT5.5为例安装EEPLAT。**
 
-  1. 请从[Downloads](imgs/eeplat.war)下载适合自己的版本，一般下载最新版本即可，下载后吧war包的名字改为eeplat.war。或从
-  官网www.eeplat.com 首页下载. 把下载文件eeplat.war拷贝到tomcat目录下webapps目录下面。
+  1. 请从官网 http://www.eeplat.com 首页下载.下载适合自己的版本，一般下载最新版本即可，下载后吧war包的名字改为eeplat.war。把下载文件eeplat.war拷贝到tomcat目录下webapps目录下面。
 > > ![image](imgs/yiyi_setup.png)
   1. 拷贝完成后，启动tomcat。启动完成后，即可进入配置开发界面，地址为http://127.0.0.1:8080/eeplat/exedo/webv3/， 需要根据TOMCAT安装端口的不同调整端口，登录页面如下所示：最新地址为http://127.0.0.1:8080/eeplat
 > > ![imgs/yiy_manager_login.png](imgs/yiy_manager_login.png)
