@@ -10,11 +10,11 @@
 
 ## 在Eclipse中配置Tomcat ##
 如果你已经配置完成，请略过此步。下面是配置截图：
-> ![images/newserver.png](images/newserver.png)
+> ![imgs/newserver.png](imgs/newserver.png)
 
-> ![images/newserver2.png](images/newserver2.png)
+> ![imgs/newserver2.png](imgs/newserver2.png)
 
-> ![images/newserver3.png](images/newserver3.png)
+> ![imgs/newserver3.png](imgs/newserver3.png)
 
 点击Finish 完成Tomcat在Eclipse中的配置。
 
@@ -23,15 +23,15 @@
 请从[SOURCE](http://code.google.com/p/eeplat/source/checkout)处查看CheckOut地址，如果你想成为该项目的代码贡献者，请联系作者。
 下面是配置截图：
 
-> ![http://eeplat.googlecode.com/files/svncheck.png](http://eeplat.googlecode.com/files/svncheck.png)
+> ![imgs/svncheck.png](imgs/svncheck.png)
 
-> ![http://eeplat.googlecode.com/files/svncheck2.png](http://eeplat.googlecode.com/files/svncheck2.png)
+> ![imgs/svncheck2.png](imgs/svncheck2.png)
 
-> ![http://eeplat.googlecode.com/files/svncheck3.png](http://eeplat.googlecode.com/files/svncheck3.png)
+> ![imgs/svncheck3.png](imgs/files/svncheck3.png)
 
-> ![http://eeplat.googlecode.com/files/svncheck4.png](http://eeplat.googlecode.com/files/svncheck4.png)
+> ![imgs/svncheck4.png](imgs/svncheck4.png)
 
-> ![http://eeplat.googlecode.com/files/svncheck5.png](http://eeplat.googlecode.com/files/svncheck5.png)
+> ![imgs/svncheck5.png](imgs/svncheck5.png)
 
 
 ## 配置Build Path ##
@@ -39,10 +39,10 @@
 CheckOut完成之后，还需要配置Build Path，如下：
 
 > ### 配置Tomcat Server Library ###
-> ![http://eeplat.googlecode.com/files/svncheck6.png](http://eeplat.googlecode.com/files/svncheck6.png)
+> ![imgs/svncheck6.png](imgs/svncheck6.png)
 
 > ### 配置JRE System Library ###
-> ![http://eeplat.googlecode.com/files/svncheck7.png](http://eeplat.googlecode.com/files/svncheck7.png)
+> ![imgs/svncheck7.png](imgs/svncheck7.png)
 
 > ### 配置EEPlat工程所依赖的类库，所在路径为 WebContent\WEB-INF\lib ###
 > ![http://eeplat.googlecode.com/files/svncheck8.png](http://eeplat.googlecode.com/files/svncheck8.png)
