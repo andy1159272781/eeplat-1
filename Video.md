@@ -3,18 +3,18 @@
 > 视频中的讲解基于云鹤平台的偏重传统计算开发的一个版本（易元平台），但是所有的配置、概念都是相同。
 
 > <b>专门录制的培训视频(优酷的视频被压缩有些模糊，建议进QQ群共享下载清晰版)</b>
-> http://v.youku.com/v_playlist/f5709117o1p0.html  ，
+> http://i.youku.com/i/UMzQzOTQ0OTQ4?spm=a2hzp.8253869.0.0  ，
 > 内容包括：
-    - [第一节：云鹤平台部署安装入门](http://v.youku.com/v_playlist/f5709117o1p0.html)
-    - [第二节：云鹤平台平台背景及相关概念入门](http://v.youku.com/v_playlist/f5709117o1p1.html)
-    * [第三节：云鹤平台建模工具介绍及结合建模工具对相关概念的介绍](http://v.youku.com/v_playlist/f5709117o1p2.html)
-    * [第四节：云鹤平台系统配置入门](http://v.youku.com/v_playlist/f5709117o1p3.html)
-    * [第五节：云鹤平台系统配置进阶](http://v.youku.com/v_playlist/f5709117o1p4.html)
-    * [第六节：云鹤平台系统配置进阶-2](http://v.youku.com/v_playlist/f5709117o1p5.html)
-    * [第七节：云鹤平台界面组件的讲解](http://v.youku.com/v_playlist/f5709117o1p6.html)
-    * [第八节：云鹤平台系统工作流基本介绍和示例](http://v.youku.com/v_playlist/f5709117o1p7.html)
-    * [第九节：云鹤平台系统权限默认实现介绍](http://v.youku.com/v_playlist/f5709117o1p8.html)
-    * [第十节：云鹤平台API开发及总线介绍](http://v.youku.com/v_playlist/f5709117o1p9.html)
+- [第一节：云鹤平台部署安装入门](http://v.youku.com/v_playlist/f5709117o1p0.html)
+- [第二节：云鹤平台平台背景及相关概念入门](http://v.youku.com/v_playlist/f5709117o1p1.html)
+- [第三节：云鹤平台建模工具介绍及结合建模工具对相关概念的介绍](http://v.youku.com/v_playlist/f5709117o1p2.html)
+- [第四节：云鹤平台系统配置入门](http://v.youku.com/v_playlist/f5709117o1p3.html)
+- [第五节：云鹤平台系统配置进阶](http://v.youku.com/v_playlist/f5709117o1p4.html)
+- [第六节：云鹤平台系统配置进阶-2](http://v.youku.com/v_playlist/f5709117o1p5.html)
+- [第七节：云鹤平台界面组件的讲解](http://v.youku.com/v_playlist/f5709117o1p6.html)
+- [第八节：云鹤平台系统工作流基本介绍和示例](http://v.youku.com/v_playlist/f5709117o1p7.html)
+- [第九节：云鹤平台系统权限默认实现介绍](http://v.youku.com/v_playlist/f5709117o1p8.html)
+- [第十节：云鹤平台API开发及总线介绍](http://v.youku.com/v_playlist/f5709117o1p9.html)
 
 
 > <b>现场培训过程中录制的早期视频</b>   ，时间更短：
