@@ -5,8 +5,8 @@
 > <b>专门录制的培训视频(优酷的视频被压缩有些模糊，建议进QQ群共享下载清晰版)</b>
 > http://v.youku.com/v_playlist/f5709117o1p0.html  ，
 > 内容包括：
-    * [第一节：云鹤平台部署安装入门](http://v.youku.com/v_playlist/f5709117o1p0.html)
-    * [第二节：云鹤平台平台背景及相关概念入门](http://v.youku.com/v_playlist/f5709117o1p1.html)
+    - [第一节：云鹤平台部署安装入门](http://v.youku.com/v_playlist/f5709117o1p0.html)
+    - [第二节：云鹤平台平台背景及相关概念入门](http://v.youku.com/v_playlist/f5709117o1p1.html)
     * [第三节：云鹤平台建模工具介绍及结合建模工具对相关概念的介绍](http://v.youku.com/v_playlist/f5709117o1p2.html)
     * [第四节：云鹤平台系统配置入门](http://v.youku.com/v_playlist/f5709117o1p3.html)
     * [第五节：云鹤平台系统配置进阶](http://v.youku.com/v_playlist/f5709117o1p4.html)
