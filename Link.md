@@ -12,6 +12,7 @@
 
 > QQ群号：105867861，欢迎加入讨论(申请加入时，请填写eeplat)。
 
-## 新浪微博 ##
+## CSDN专题 ##
 
-> 关注开发者的新浪微博：http://t.sina.com.cn/weikx
+> 关注开发者的新浪微博：https://blog.csdn.net/column/details/eeplat.html
+> 
