@@ -10,4 +10,4 @@ com.exedosoft.plat.ui.jquery.form.DODownLoadExcel
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/grid_outgridexcel.png' />
+<img src='imgs/grid_outgridexcel.png' />
