@@ -13,4 +13,4 @@ com.exedosoft.plat.ui.jquery.pane.ContentPaneScroll
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/p_content.png' />
+<img src='imgs/p_content.png' />
