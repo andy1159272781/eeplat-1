@@ -5,16 +5,16 @@
 
 > 创建导出EXCEL表格的面板容器名称为 “PM\_t\_expense\_ExportExcel” ，一般可以使用复制，然后修改名称
 
-> ![http://eeplat.googlecode.com/files/excel_simple_pane.png](http://eeplat.googlecode.com/files/excel_simple_pane.png)
+> ![imgs/excel_simple_pane.png](imgs/excel_simple_pane.png)
 
 > 创建导出EXCEL的表格，一般可以使用复制，然后修改名称，在这儿可以定义导出的字段，可以定义导出的服务等，注意界面组件器grid.OutGridExcel，另外一个界面组件grid.OutGridExcelSelected可以导出选中的数据
 
-> ![http://eeplat.googlecode.com/files/excel_simple_grid.png](http://eeplat.googlecode.com/files/excel_simple_grid.png)
+> ![imgs/excel_simple_grid.png](imgs/excel_simple_grid.png)
 
 
 > 创建按钮，点击它下载导出文件，界面组件为form.DODownLoadExcel，连接的面板为上述配置的 PM\_t\_expense\_ExportExcel
 
-> ![http://eeplat.googlecode.com/files/excel_simple_button.png](http://eeplat.googlecode.com/files/excel_simple_button.png)
+> ![imgs/excel_simple_button.png](imgs/excel_simple_button.png)
 
 
 
@@ -23,15 +23,15 @@
 
 > 创建报表模板，这个报表比使用grid.OutGridExcel界面组件导出的报表多了统计功能
 
-> ![http://eeplat.googlecode.com/files/excel_report_template.png](http://eeplat.googlecode.com/files/excel_report_template.png)
+> ![imgs/excel_report_template.png](imgs/excel_report_template.png)
 
 > 创建界面组件，对应JAVA Class为 com.exedosoft.plat.ui.jquery.form.DODownLoadExcelReport。这个界面组件是为报表模板准备数据
 
-> ![http://eeplat.googlecode.com/files/excel_report_controller.png](http://eeplat.googlecode.com/files/excel_report_controller.png)
+> ![imgs/excel_report_controller.png](imgs/excel_report_controller.png)
 
 
 > 创建按钮，连接的界面组件是上述所创建的
 
-> ![http://eeplat.googlecode.com/files/excel_report_button.png](http://eeplat.googlecode.com/files/excel_report_button.png)
+> ![imgs/excel_report_button.png](imgs/excel_report_button.png)
 
 
