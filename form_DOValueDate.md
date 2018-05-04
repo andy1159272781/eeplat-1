@@ -14,4 +14,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueDate
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valuetime.png' />
+<img src='imgs/c_valuetime.png' />
