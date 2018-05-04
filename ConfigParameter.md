@@ -50,9 +50,21 @@
 
 > <b>CODE：使用编码生成器，需要指定编码生成器 </b>
 
-> <b>SCRIPT：参数的值来自于脚本，脚本填写在备注中 </b>
+> <b>SCRIPT：参数的值来自于脚本，脚本填写在备注中 </b> 
+
+例如（把传入的itemname的中文翻译成英文，调用平台的pinyin类）：
+var re=com.exedosoft.plat.util.PinYinUtil.getPinYin(doform.getValue("itemname"));
+re;
 
 > <b>ACTION：参数的值来自于自定义动作，需要指定自定义动作 </b>
+
+如：Action代码（把传入的itemname的中文翻译成英文，调用平台的pinyin类）
+public class GetPinyinAction extends DOAbstractAction{
+	@Override
+	public String excute() throws ExedoException {
+				return PinYinUtil.getPinYin(this.actionForm.getValue("itemname"));
+	}
+}
 
 > <b>MD5：FORM类型的子类型，对相应值做MD5运算 </b>
 
