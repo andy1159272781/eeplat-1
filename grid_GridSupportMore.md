@@ -14,4 +14,4 @@ com.exedosoft.plat.ui.jquery.grid.GridSupportMore
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/grid_supportmore.png' />
+<img src='imgs/grid_supportmore.png' />
