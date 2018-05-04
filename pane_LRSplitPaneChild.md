@@ -15,4 +15,4 @@ com.exedosoft.plat.ui.jquery.pane.LRSplitPaneChild
 所在面板连接的内容可以是树（如部门管理树）、表格、菜单、资源等。
 
 
-<img src='http://eeplat.googlecode.com/files/p_lrchild.png' />
+<img src='imgs/p_lrchild.png' />
