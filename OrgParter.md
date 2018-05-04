@@ -4,7 +4,7 @@
 
 > 组织定义入口为，首页==》基础设施管理==》组织定义，下图是组织定义的界面：
 
-> ![http://eeplat.googlecode.com/files/parter_define.png](http://eeplat.googlecode.com/files/parter_define.png)
+> ![imgs/parter_define.png](imgs/parter_define.png)
 
 # SESSIONPARTER.CLASS #
 
@@ -42,7 +42,7 @@
 
 > 以u/1111登录，可以看到系统默认的组织权限管理，如下图：
 
-> ![http://eeplat.googlecode.com/files/auth_menu.png](http://eeplat.googlecode.com/files/auth_menu.png)
+> ![imgs/auth_menu.png](imgs/auth_menu.png)
 
 > ## 通讯薄：查看用户信息 ##
 
@@ -52,10 +52,10 @@
 
 > ## 用户管理：以部门结构为索引，管理用户信息，同时设置用户拥有的角色 ##
 
-> ![http://eeplat.googlecode.com/files/auth_user.png](http://eeplat.googlecode.com/files/auth_user.png)
+> ![imgs/auth_user.png](imgs/auth_user.png)
 
 > ## 用户查询：查询用户基本信息 ##
 
 > ## 菜单权限：显示菜单，设置菜单使用的角色 ##
 
-> ![http://eeplat.googlecode.com/files/auth_menu_role.png](http://eeplat.googlecode.com/files/auth_menu_role.png)
+> !imgs/auth_menu_role.png](imgs/auth_menu_role.png)
