@@ -14,4 +14,4 @@ form.DOSelectInvoke弹出的“查询选择面板”中需含有form.DOSelectDat
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_selectinvoke.png' />
+<img src='imgs/c_selectinvoke.png' />
