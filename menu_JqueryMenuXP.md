@@ -10,4 +10,4 @@ com.exedosoft.plat.ui.menu.JqueryMenuXP
 
 如下图左侧菜单部分。
 
-<img src='http://eeplat.googlecode.com/files/menu_xp.png' />
+<img src='imgs/menu_xp.png' />
