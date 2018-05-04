@@ -16,4 +16,4 @@ com.exedosoft.plat.ui.jquery.pane.LayoutLeft
 
 所在面板连接的内容为菜单。
 
-![http://eeplat.googlecode.com/files/structure_index.png](http://eeplat.googlecode.com/files/structure_index.png)
+![imgs/structure_index.png](imgs/structure_index.png)
