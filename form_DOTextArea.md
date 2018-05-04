@@ -17,4 +17,4 @@ Html表单元素-文本域（也称多行文本框）。
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_textarea.png' />
+<img src='imgs/t_textarea.png' />
