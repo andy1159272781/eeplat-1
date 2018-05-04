@@ -58,4 +58,4 @@
 
 > ## 菜单权限：显示菜单，设置菜单使用的角色 ##
 
-> !imgs/auth_menu_role.png](imgs/auth_menu_role.png)
+> ![imgs/auth_menu_role.png](imgs/auth_menu_role.png)
