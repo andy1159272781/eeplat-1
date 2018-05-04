@@ -19,4 +19,4 @@ Html表单元素-文本录入框。
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_input2.png' />
+<img src='imgs/t_input2.png' />
