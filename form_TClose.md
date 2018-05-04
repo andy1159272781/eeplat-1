@@ -8,4 +8,4 @@ com.exedosoft.plat.ui.jquery.form.TClose
 
 ## 运行示例 ##
 
-<img src='http://eeplat.googlecode.com/files/T_Close.png' />
+<img src='imgs/T_Close.png' />
