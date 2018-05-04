@@ -15,4 +15,4 @@ com.exedosoft.plat.ui.jquery.form.TPaneApplication
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/T_PaneApplication.png ' />
+<img src='imgs/T_PaneApplication.png ' />
