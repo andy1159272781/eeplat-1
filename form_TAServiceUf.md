@@ -16,4 +16,4 @@ com.exedosoft.plat.ui.jquery.form.TAServiceUf
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_TAService.png ' />
+<img src='imgs/c_TAService.png ' />
