@@ -15,4 +15,4 @@ Html表单元素-下拉列表。数据来自“连接的服务”。
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_resultpo.png' />
+<img src='imgs/c_resultpo.png' />
