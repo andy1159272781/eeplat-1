@@ -12,8 +12,8 @@ com.exedosoft.plat.ui.jquery.form.DOValueHtmlXss
 
 没有使用form.DOValueHtmlXss界面组件：
 
-<img src='http://eeplat.googlecode.com/files/c_valuehtmlxss_2.png ' />
+<img src='imgs/c_valuehtmlxss_2.png ' />
 
 使用form.DOValueHtmlXss界面组件：
 
-<img src='http://eeplat.googlecode.com/files/c_valuehtmlxss.png ' />
+<img src='imgs/c_valuehtmlxss.png ' />
