@@ -12,12 +12,12 @@ com.exedosoft.plat.ui.jquery.form.DOValueMultiData
 配置示例如下图：
 
 
-<img src='http://eeplat.googlecode.com/files/t_dovaluemultidata_1.png' />
+<img src='imgs/t_dovaluemultidata_1.png' />
 
 
 服务配置示例：
 
-<img src='http://eeplat.googlecode.com/files/t_dovaluemultidata_2.png' />
+<img src='imgs/t_dovaluemultidata_2.png' />
 
 
 # 说明 #
@@ -29,4 +29,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueMultiData
 
 如下图所示：
 
-<img src='http://eeplat.googlecode.com/files/t_dovaluemultidata_3.png' />
+<img src='imgs/t_dovaluemultidata_3.png' />
