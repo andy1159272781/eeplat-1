@@ -10,4 +10,4 @@ com.exedosoft.plat.ui.menu.DOWebFxTree
 
 如下图所示，菜单的部分。
 
-<img src='http://eeplat.googlecode.com/files/controller_ui.png' />
+<img src='imgs/controller_ui.png' />
