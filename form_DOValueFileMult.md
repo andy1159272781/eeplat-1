@@ -13,4 +13,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueFileMult
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_fileMult.png ' />
+<img src='imgs/c_fileMult.png ' />
