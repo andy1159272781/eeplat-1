@@ -27,4 +27,4 @@ com.exedosoft.plat.ui.jquery.form.DOInputCheckBoxList
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/	c_inputcheckboxlist.png' />
+<img src='imgs/	c_inputcheckboxlist.png' />
