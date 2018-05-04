@@ -9,4 +9,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueLong
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valuelong.png' />
+<img src='imgs/c_valuelong.png' />
