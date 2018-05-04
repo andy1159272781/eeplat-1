@@ -26,7 +26,7 @@ com.exedosoft.plat.ui.jquery.form.TUploadify
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_uploadify.png' />
+<img src='imgs/c_uploadify.png' />
 
 ## 跨域问题 ##
 
