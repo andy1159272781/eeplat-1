@@ -21,4 +21,4 @@ com.exedosoft.plat.ui.jquery.form.DOResultListPopup
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_resultpop.png' />
+<img src='imgs/c_resultpop.png' />
