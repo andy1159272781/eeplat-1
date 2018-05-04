@@ -10,4 +10,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueSimpleLoginMan
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valuesimpleloginman.png' />
+<img src='imgs/c_valuesimpleloginman.png' />
