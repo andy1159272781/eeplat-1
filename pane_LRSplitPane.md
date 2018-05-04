@@ -18,4 +18,4 @@ com.exedosoft.plat.ui.jquery.pane.LRSplitPane
 所在面板为上层容器，不连接任何内容，只包含子面板。
 
 
-<img src='http://eeplat.googlecode.com/files/p_lrchild.png' />
+<img src='imgs/p_lrchild.png' />
