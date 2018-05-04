@@ -19,4 +19,4 @@ com.exedosoft.plat.ui.jquery.pane.LayOutSplitPane
 
 所在面板为上层容器，不连接任何内容，只包含子面板。
 
-![http://eeplat.googlecode.com/files/structure_index.png](http://eeplat.googlecode.com/files/structure_index.png)
+![imgs/structure_index.png](imgs/structure_index.png)
