@@ -15,4 +15,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueResultListPlain
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_resultlistplan.png ' />
+<img src='imgs/t_resultlistplan.png ' />
