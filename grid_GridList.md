@@ -15,4 +15,4 @@ com.exedosoft.plat.ui.jquery.grid.GridList
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/grid_list.png' />
+<img src='imgs/grid_list.png' />
