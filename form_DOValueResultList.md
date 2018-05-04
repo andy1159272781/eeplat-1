@@ -24,4 +24,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueResultList
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valueresultlist.png' />
+<img src='imgs/c_valueresultlist.png' />
