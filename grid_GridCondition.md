@@ -14,4 +14,4 @@ com.exedosoft.plat.ui.jquery.grid.GridCondition
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/grid_conditionautotr.png' />
+<img src='imgs/grid_conditionautotr.png' />
