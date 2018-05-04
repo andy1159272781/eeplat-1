@@ -23,4 +23,4 @@ com.exedosoft.plat.ui.jquery.form.my97.DatePicker
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_datepicker.png' />
+<img src='imgs/c_datepicker.png' />
