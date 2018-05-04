@@ -16,4 +16,4 @@ com.exedosoft.plat.ui.jquery.form.DODownLoadCommon
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_TDownloadComm.png ' />
+<img src='imgs/c_TDownloadComm.png ' />
