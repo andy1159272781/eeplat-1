@@ -19,4 +19,4 @@ com.exedosoft.plat.ui.jquery.pane.ToolbarScroll
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/p_toolbar.png' />
+<img src='imgs/p_toolbar.png' />
