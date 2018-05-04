@@ -14,4 +14,4 @@ com.exedosoft.plat.ui.jquery.tree.JquerySimpleTree
 
 如下图所示“这儿是工程内容索引”部分。
 
-<img src='http://eeplat.googlecode.com/files/structure_index.png' />
+<img src='imgs/structure_index.png' />
