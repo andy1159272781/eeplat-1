@@ -16,8 +16,8 @@ com.exedosoft.plat.ui.jquery.grid.OutGridExcel
 激发位置在于下图的“导出”按钮([form.DODownLoadExcel](form_DODownLoadExcel.md))：
 
 
-<img src='http://eeplat.googlecode.com/files/grid_outgridexcel.png' />
+<img src='imgs/grid_outgridexcel.png' />
 
 导出结果可以被EXCEL打开：
 
-<img src='http://eeplat.googlecode.com/files/grid_excel.png' />
+<img src='imgs/grid_excel.png' />
