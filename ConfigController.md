@@ -18,9 +18,9 @@
 
 > UI及控制器的结构图：
 
-> <img src='http://eeplat.googlecode.com/files/yiyi_ui_archive.png' height='400px' />
+> <img src='imgs/yiyi_ui_archive.png' height='400px' />
 
-> <img src='http://eeplat.googlecode.com/files/controller_ui.png' />
+> <img src='imgs/controller_ui.png' />
 
 
 
@@ -58,15 +58,15 @@
 
 > 控制器管理入口位于 首页==>基础设施管理==>界面组件管理。
 
-> ![http://eeplat.googlecode.com/files/controller_manager.png](http://eeplat.googlecode.com/files/controller_manager.png)
+> ![imgs/controller_manager.png](imgs/controller_manager.png)
 
 > ### 复制界面组件 ###
 
 > 注册界面组件时，可以采用新增或复制的方式，推荐用复制的方式注册新的界面组件，如下图
 
-> ![http://eeplat.googlecode.com/files/controller_copy.png](http://eeplat.googlecode.com/files/controller_copy.png)
+> ![imgs/controller_copy.png](imgs/controller_copy.png)
 
 > ### 通过脚本在线编写 ###
 
 > 可以通过脚本在线编写新的界面组件，分为两部分，第一部分是脚本准备数据；第二部分是显示模板。如下图：
-> ![http://eeplat.googlecode.com/files/controller_write.png](http://eeplat.googlecode.com/files/controller_write.png)
+> ![imgs/controller_write.png](imgs/controller_write.png)
