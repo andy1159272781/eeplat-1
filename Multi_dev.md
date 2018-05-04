@@ -35,16 +35,16 @@ EEPlat 扩展了ACE的Autocompletion，常用API可以自动完成，使用Ctrl(
 
 # 服务器端JavaScript(Rhino) #
 
-> <img src='http://eeplat.googlecode.com/files/rhino_js.png' />
+> <img src='imgs/rhino_js.png' />
 
 # 浏览器端JavaScript #
 
-> <img src='http://eeplat.googlecode.com/files/js.png' />
+> <img src='imgs/js.png' />
 
 # HTML(HTML5) #
 
-> <img src='http://eeplat.googlecode.com/files/html.png' />
+> <img src='imgs/html.png' />
 
 # CSS #
 
-> <img src='http://eeplat.googlecode.com/files/css.png' />
+> <img src='imgs/css.png' />
