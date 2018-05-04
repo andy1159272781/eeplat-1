@@ -13,4 +13,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueInputFileHD
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_inputfilehd.png' />
+<img src='imgs/c_inputfilehd.png' />
