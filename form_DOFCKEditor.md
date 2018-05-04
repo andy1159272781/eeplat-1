@@ -16,4 +16,4 @@ com.exedosoft.plat.ui.jquery.form.DOFCKEditor
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_fckedit.png' />
+<img src='imgs/t_fckedit.png' />
