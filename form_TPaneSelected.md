@@ -16,4 +16,4 @@ com.exedosoft.plat.ui.jquery.form.TPaneSelected
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/T_PaneSelected.png ' />
+<img src='imgs/T_PaneSelected.png ' />
