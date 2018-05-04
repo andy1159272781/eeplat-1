@@ -21,4 +21,4 @@ form.TServiceUf比form.TService的用途更广泛，只有特定环境需要使�
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_TService.png ' />
+<img src='imgs/c_TService.png ' />
