@@ -8,4 +8,4 @@ com.exedosoft.plat.ui.jquery.form.TReset
 
 ## 运行示例 ##
 
-<img src='http://eeplat.googlecode.com/files/T_Reset.png' />
+<img src='imgs/T_Reset.png' />
