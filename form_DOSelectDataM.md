@@ -14,4 +14,4 @@ form.DOSelectDataM继承自form.DOSelectData，和form.DOSelectData不同的地�
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_selectdata.png' />
+<img src='imgs/c_selectdata.png' />
