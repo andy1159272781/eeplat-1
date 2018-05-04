@@ -14,4 +14,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueLink
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valuelink.png' />
+<img src='imgs/c_valuelink.png' />
