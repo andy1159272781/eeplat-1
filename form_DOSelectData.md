@@ -14,4 +14,4 @@ form.DOSelectData选择的数据被放入，form.DOSelectInvoke的前部的文�
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_selectdata.png' />
+<img src='imgs/c_selectdata.png' />
