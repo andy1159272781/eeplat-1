@@ -13,4 +13,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueImage
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valueimage.png' />
+<img src='imgs/c_valueimage.png' />
