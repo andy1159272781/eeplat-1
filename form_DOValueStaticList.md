@@ -16,4 +16,4 @@ com.exedosoft.plat.ui.jquery.form.DOValueStaticList
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_valuestaticlist.png' />
+<img src='imgs/c_valuestaticlist.png' />
