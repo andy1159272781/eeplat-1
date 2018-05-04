@@ -15,4 +15,4 @@ com.exedosoft.plat.ui.jquery.grid.TreeGridList
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/grid_treelist.png' />
+<img src='imgs/grid_treelist.png' />
