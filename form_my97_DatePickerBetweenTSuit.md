@@ -17,4 +17,4 @@ com.exedosoft.plat.ui.jquery.form.my97.DatePickerBetweenTSuit
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_timebetween.png' />
+<img src='imgs/t_timebetween.png' />
