@@ -19,4 +19,4 @@ com.exedosoft.plat.ui.jquery.form.DOInputPassword
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_inputpwd.png' />
+<img src='imgs/t_inputpwd.png' />
