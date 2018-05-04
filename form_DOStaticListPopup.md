@@ -15,4 +15,4 @@ com.exedosoft.plat.ui.jquery.form.DOStaticListPopup
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/c_selectpopup.png' />
+<img src='imgs/c_selectpopup.png' />
