@@ -27,4 +27,4 @@ com.exedosoft.plat.ui.jquery.form.TService
 
 如下图红点位置：
 
-<img src='http://eeplat.googlecode.com/files/c_TService.png ' />
+<img src='imgs/c_TService.png ' />
