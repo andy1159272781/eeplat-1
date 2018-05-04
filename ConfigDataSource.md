@@ -23,22 +23,22 @@
 
 > 数据源管理入口位于 首页==>基础设施管理==>数据源管理
 
-> ![http://eeplat.googlecode.com/files/datasource_config.png](http://eeplat.googlecode.com/files/datasource_config.png)
+> ![imgs/datasource_config.png](imgs/datasource_config.png)
 
 > ### JNDI 缺省Context方式 ###
 
-> ![http://eeplat.googlecode.com/files/jndi_default.png](http://eeplat.googlecode.com/files/jndi_default.png)
+> ![imgs/jndi_default.png](imgs/jndi_default.png)
 
 > ### JNDI 特殊Context方式 ###
 
 > 以 weblogic 为例：
 
-> ![http://eeplat.googlecode.com/files/jndi_spec.png](http://eeplat.googlecode.com/files/jndi_spec.png)
+> ![imgs/jndi_spec.png](imgs/jndi_spec.png)
 
 > ### 直接JDBC连接 ###
 
-> ![http://eeplat.googlecode.com/files/ds_jdbc.png](http://eeplat.googlecode.com/files/ds_jdbc.png)
+> ![imgs/ds_jdbc.png](imgs/ds_jdbc.png)
 
 > ### 平台提供的数据库连接池 ###
 
-> ![http://eeplat.googlecode.com/files/ds_jdbc_init.png](http://eeplat.googlecode.com/files/ds_jdbc_init.png)
+> ![imgs/ds_jdbc_init.png](imgs/ds_jdbc_init.png)
