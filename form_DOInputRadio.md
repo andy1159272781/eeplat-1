@@ -16,4 +16,4 @@ Html表单元素-单选框。
 ## 运行示例 ##
 
 
-<img src='http://eeplat.googlecode.com/files/t_radio.png' />
+<img src='imgs/t_radio.png' />
