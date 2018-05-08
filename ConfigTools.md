@@ -2,8 +2,8 @@
 
 ## 首页面界面结构 ##
 
-> ![http://eeplat.googlecode.com/files/structure_index.png](http://eeplat.googlecode.com/files/structure_index.png)
+> ![imgs/structure_index.png](imgs/structure_index.png)
 
 ## 具体配置页面结构 ##
 
-> ![http://eeplat.googlecode.com/files/structure_comm.png](http://eeplat.googlecode.com/files/structure_comm.png)
+> ![imgs/structure_comm.png](s/structure_comm.png)
