@@ -67,7 +67,7 @@
   1. gt 大于某一个表格元素的值   gt=#gm_tbl_person_insert_person_birthday message=提示信息
   1. lt 小于某一个表格元素的值   lt=#gm_tbl_person_insert_person_birthday message=提示信息
   1. gtdate 大于某一个表格元素的日期   gt=#gm_tbl_person_insert_person_birthday message=提示信息
-  1. ltdate 小于某一个表格元素的日期   lt=#gm_tbl_person_insert_person_birthday message=提示信息
+  1. ltdate 小于某一个表格元素的日期   lt=#gm_tbl_person_insert_person_birthday message=提示信息
   1. ===============其余扩展 不选择类型 直接补充表达是写
   1. Integer整数类型   Integer=true
   1. RealNumber 数字类型 RealNumber=true
@@ -75,6 +75,28 @@
   1. NoSBCDot 不能还有全角字符 NoSBCDot=true
   1. gtavalue 大于一个值  gtavalue=10
   1. ltavalue 小于一个值  ltavalue=10
+  1. ================扩展validator可以在platajax.js中仿照现有代码写  也可以写在浏览器js里面 需要在加载面板前调用该片段，例子js扩展：    $.validator.addMethod( "checkMobileRepeat",function(value,element){       
+  
+        var returnMsg=true;    
+  
+        callService({'serviceName':'do_org_user_findbymobile',
+				 'async':false,
+				 'paras':"mobile="+value, 
+				 'callType':'sa',
+				 'callback':function(v){
+					   //alert(v[0]);
+						if(v!=null && v.length>0){
+                            returnMsg=false;   
+							//$("#gm_or_memberunit_insert_reg_name").after('<label for="gm_or_memberunit_insert_reg_name" class="error">该用户已经存在！</label>');  
+						}
+					}
+				});
+  
+        return returnMsg;    
+  
+    } ,  "此手机已经注册过！请您更换其它手机或者联系平台管理员！");  
+  
+  
 
 > 如果不限制类型只限制长度，如;5  则表示长度不能超过5。
 
