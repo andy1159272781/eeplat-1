@@ -75,7 +75,8 @@
   1. NoSBCDot 不能还有全角字符 NoSBCDot=true
   1. gtavalue 大于一个值  gtavalue=10
   1. ltavalue 小于一个值  ltavalue=10
-  1. ================扩展validator可以在platajax.js中仿照现有代码写  也可以写在浏览器js里面 需要在加载面板前调用该片段，例子js扩展：    $.validator.addMethod( "checkMobileRepeat",function(value,element){       
+  1. ================扩展validator可以在platajax.js中仿照现有代码写  也可以写在浏览器js里面 需要在加载面板前调用该片段，例子js扩展：   
+  $.validator.addMethod( "checkMobileRepeat",function(value,element){       
   
         var returnMsg=true;    
   
